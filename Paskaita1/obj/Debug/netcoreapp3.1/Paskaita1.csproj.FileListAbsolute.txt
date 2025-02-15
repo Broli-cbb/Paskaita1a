@@ -1,0 +1,12 @@
+/Users/a/Desktop/Kursai/Paskaita1/Paskaita1/obj/Debug/netcoreapp3.1/Paskaita1.csprojAssemblyReference.cache
+/Users/a/Desktop/Kursai/Paskaita1/Paskaita1/obj/Debug/netcoreapp3.1/Paskaita1.AssemblyInfoInputs.cache
+/Users/a/Desktop/Kursai/Paskaita1/Paskaita1/obj/Debug/netcoreapp3.1/Paskaita1.AssemblyInfo.cs
+/Users/a/Desktop/Kursai/Paskaita1/Paskaita1/obj/Debug/netcoreapp3.1/Paskaita1.csproj.CoreCompileInputs.cache
+/Users/a/Desktop/Kursai/Paskaita1/Paskaita1/bin/Debug/netcoreapp3.1/Paskaita1.deps.json
+/Users/a/Desktop/Kursai/Paskaita1/Paskaita1/bin/Debug/netcoreapp3.1/Paskaita1.runtimeconfig.json
+/Users/a/Desktop/Kursai/Paskaita1/Paskaita1/bin/Debug/netcoreapp3.1/Paskaita1.runtimeconfig.dev.json
+/Users/a/Desktop/Kursai/Paskaita1/Paskaita1/bin/Debug/netcoreapp3.1/Paskaita1.dll
+/Users/a/Desktop/Kursai/Paskaita1/Paskaita1/bin/Debug/netcoreapp3.1/Paskaita1.pdb
+/Users/a/Desktop/Kursai/Paskaita1/Paskaita1/obj/Debug/netcoreapp3.1/Paskaita1.dll
+/Users/a/Desktop/Kursai/Paskaita1/Paskaita1/obj/Debug/netcoreapp3.1/Paskaita1.pdb
+/Users/a/Desktop/Kursai/Paskaita1/Paskaita1/obj/Debug/netcoreapp3.1/Paskaita1.genruntimeconfig.cache
